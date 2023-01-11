@@ -7,7 +7,7 @@ const Child2 = () => {
 
     return (
         <div>
-            <h1>This child is using Reducer Hook.</h1>
+            <h1>This child is using Reducer Hook</h1>
             <h2>Counter value is: {state} </h2>
 
 

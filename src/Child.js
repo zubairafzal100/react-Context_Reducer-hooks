@@ -7,7 +7,7 @@ const Child = () => {
 
     return (
         <div>
-            <h1>This child is using Context Hook.</h1>
+            <h1>This child is using Context Hook</h1>
             <h2>Counter value is: {counterValue[0]} </h2>
 
 
